@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "OliversTale",
+			"Path": "..\\Source\\OliversTale.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "OliversTaleEditor",
+			"Path": "..\\Source\\OliversTaleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

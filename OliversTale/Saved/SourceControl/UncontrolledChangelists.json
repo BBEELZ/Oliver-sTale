@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal Projects/Oliver's Tale/OliversTale/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"E:/Unreal Projects/Oliver's Tale/OliversTale/Content/ThirdPerson/Maps/TutorialLevel.umap",
+				"E:/Unreal Projects/Oliver's Tale/OliversTale/Content/StarterContent/Materials/M_Landscape.uasset",
+				"E:/Unreal Projects/Oliver's Tale/OliversTale/Content/ThirdPerson/Maps/TutorialLevel_sharedassets/Dirt_LayerInfo.uasset",
+				"E:/Unreal Projects/Oliver's Tale/OliversTale/Content/ThirdPerson/Maps/TutorialLevel_sharedassets/Grass_LayerInfo.uasset",
+				"E:/Unreal Projects/Oliver's Tale/OliversTale/Content/StarterContent/Materials/M_Landscape_Inst.uasset"
+			]
+		}
+	]
+}

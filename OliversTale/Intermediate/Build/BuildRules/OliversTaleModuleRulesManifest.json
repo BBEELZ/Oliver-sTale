@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Unreal Projects\\Oliver's Tale\\OliversTale\\Source\\OliversTale\\OliversTale.Build.cs",
+		"E:\\Unreal Projects\\Oliver's Tale\\OliversTale\\Source\\OliversTale.Target.cs",
+		"E:\\Unreal Projects\\Oliver's Tale\\OliversTale\\Source\\OliversTaleEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
